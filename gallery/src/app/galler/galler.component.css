@@ -1,0 +1,15 @@
+ul {
+    padding: 0;
+    width: 1200px;
+    margin: 20px auto;
+}
+
+li {
+    display: inline; 
+}
+
+.tn {
+    margin: 5px;
+    border: 3px solid #eee;
+    box-shadow: #555 1px 1px 7px 1px;
+}
